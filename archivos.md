@@ -13,7 +13,7 @@ Usamos la clase `FileWriter` para generar comprobantes permanentes en el disco d
 <div align="center">
   <h3>🎉 ¡Tutorial Completado! 🎉</h3>
   <br>
-  <a href="index.md" class="boton-neon">Volver al Inicio 🏠</a>
+  <a href="index.html" class="boton-neon">Volver al Inicio 🏠</a>
 </div>
 
 <style>

@@ -11,7 +11,7 @@ Para manejar compras donde no sabemos cuántos artículos llevará el cliente, u
 
 <br><hr>
 <div align="center">
-  <a href="archivos.md" class="boton-neon">Siguiente Módulo ➡️</a>
+  <a href="archivos.html" class="boton-neon">Siguiente Módulo ➡️</a>
 </div>
 
 <style>

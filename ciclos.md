@@ -11,7 +11,7 @@ Los **ciclos** (`for`, `while`) nos permiten automatizar tareas, como verificar 
 
 <br><hr>
 <div align="center">
-  <a href="metodos.md" class="boton-neon">Siguiente Módulo ➡️</a>
+  <a href="metodos.html" class="boton-neon">Siguiente Módulo ➡️</a>
 </div>
 
 <style>

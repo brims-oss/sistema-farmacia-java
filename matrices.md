@@ -11,7 +11,7 @@ Para representar estructuras de cuadrícula (filas y columnas de un estante), ut
 
 <br><hr>
 <div align="center">
-  <a href="listas.md" class="boton-neon">Siguiente Módulo ➡️</a>
+  <a href="listas.html" class="boton-neon">Siguiente Módulo ➡️</a>
 </div>
 
 <style>

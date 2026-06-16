@@ -2,21 +2,18 @@
 
 ¡Bienvenido! Este tutorial interactivo, desarrollado por **Jeremy Benavides**, te guiará paso a paso para construir la lógica y la interfaz gráfica de un sistema de inventario farmacéutico en Java.
 
-<details>
-  <summary><b>👉 Haz clic aquí para desplegar los Módulos</b></summary>
-  <br>
-  <ul>
-    <li><a href="ciclos.md">Módulo 1: Control de Lotes (Ciclos)</a></li>
-    <li><a href="metodos.md">Módulo 2: Caja Registradora (Métodos)</a></li>
-    <li><a href="matrices.md">Módulo 3: Estantes (Matrices)</a></li>
-    <li><a href="listas.md">Módulo 4: Carrito de Compras (Listas)</a></li>
-    <li><a href="archivos.md">Módulo 5: Facturas (Archivos)</a></li>
-  </ul>
+<ul>
+  <li><a href="ciclos.html">Módulo 1: Control de Lotes (Ciclos)</a></li>
+  <li><a href="metodos.html">Módulo 2: Caja Registradora (Métodos)</a></li>
+  <li><a href="matrices.html">Módulo 3: Estantes (Matrices)</a></li>
+  <li><a href="listas.html">Módulo 4: Carrito de Compras (Listas)</a></li>
+  <li><a href="archivos.html">Módulo 5: Facturas (Archivos)</a></li>
+</ul>
 </details>
 
 <br>
 <div align="center">
-  <a href="ciclos.md" class="boton-neon">Empezar el Curso ➡️</a>
+  <a href="ciclos.html" class="boton-neon">Empezar el Curso ➡️</a>
 </div>
 
 <style>

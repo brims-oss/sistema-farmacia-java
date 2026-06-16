@@ -11,7 +11,7 @@ Un **método** (función) nos permite encapsular fórmulas, como calcular impues
 
 <br><hr>
 <div align="center">
-  <a href="matrices.md" class="boton-neon">Siguiente Módulo ➡️</a>
+  <a href="matrices.html" class="boton-neon">Siguiente Módulo ➡️</a>
 </div>
 
 <style>
