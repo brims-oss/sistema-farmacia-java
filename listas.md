@@ -14,8 +14,6 @@ Para manejar compras donde no sabemos cuántos artículos llevará el cliente, u
   <img src="ejercicios/listas1.png" width="350" style="border-radius: 10px; box-shadow: 0 0 15px #00ff88; margin: 10px;">
   <img src="ejercicios/listas2.png" width="350" style="border-radius: 10px; box-shadow: 0 0 15px #00ff88; margin: 10px;">
 </div>
-
-
 <br><hr>
 <div align="center">
   <a href="archivos.html" class="boton-neon">Siguiente Módulo ➡️</a>

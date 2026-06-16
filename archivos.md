@@ -14,8 +14,6 @@ Usamos la clase `FileWriter` para generar comprobantes permanentes en el disco d
   <img src="ejercicios/archivos1.png" width="350" style="border-radius: 10px; box-shadow: 0 0 15px #00ff88; margin: 10px;">
   <img src="ejercicios/archivos2.png" width="350" style="border-radius: 10px; box-shadow: 0 0 15px #00ff88; margin: 10px;">
 </div>
-
-
 <br><hr>
 <div align="center">
   <h3>🎉 ¡Tutorial Completado! 🎉</h3>

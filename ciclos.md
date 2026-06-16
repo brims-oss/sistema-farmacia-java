@@ -13,7 +13,6 @@ Los **ciclos** (`for`, `while`) nos permiten automatizar tareas, como verificar 
 <div align="center">
   <img src="ejercicios/ciclos1.png" width="450" style="border-radius: 10px; box-shadow: 0 0 15px #00ff88; margin-bottom: 20px;">
 </div>
-
 <br><hr>
 <div align="center">
   <a href="metodos.html" class="boton-neon">Siguiente Módulo ➡️</a>

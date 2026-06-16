@@ -15,7 +15,6 @@ Un **método** (función) nos permite encapsular fórmulas, como calcular impues
   <img src="ejercicios/metodos2.png" width="250" style="border-radius: 10px; box-shadow: 0 0 15px #00ff88; margin: 10px;">
   <img src="ejercicios/metodos3.png" width="250" style="border-radius: 10px; box-shadow: 0 0 15px #00ff88; margin: 10px;">
 </div>
-
 <br><hr>
 <div align="center">
   <a href="matrices.html" class="boton-neon">Siguiente Módulo ➡️</a>
