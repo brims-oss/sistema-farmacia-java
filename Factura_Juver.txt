@@ -1,0 +1,7 @@
+=== FARMACIA LA SALUD ===
+Cliente: Juver
+-------------------------
+- Caja de Paracetamol
+- Paquete de Curitas
+Total pagado: $12.50
+¡Gracias por su compra!
